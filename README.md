@@ -29,3 +29,5 @@ A React.js application with Firebase Firestore for managing an e-commerce produc
 
 # Setup Instructions
 
+1. Clone the Repository:
+![alt text](image.png)
