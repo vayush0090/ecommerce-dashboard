@@ -299,7 +299,7 @@ function ProductTable() {
                                             colSpan="7"
                                             className="text-center py-6 text-lg font-semibold text-gray-400"
                                         >
-                                            😂 Product Not Found 🤪
+                                             Product Not Found 
                                         </td>
                                     </tr>
                                 )}
